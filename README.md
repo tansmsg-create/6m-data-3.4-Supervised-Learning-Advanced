@@ -40,11 +40,11 @@
 
 | Phase | Time | Format |
 |---|---|---|
-| Slide-driven lecture | ~90 min | Instructor uses [`slides/L04_slides.pptx`](./slides/L04_slides.pptx) (~28 slides with speaker notes) |
+| Concept walkthrough | ~90 min | Instructor presents core concepts; learners follow along on the [**interactive key-concepts page**](https://flexfengfeng.github.io/dsai-m3-l04-learner/) |
 | Hands-on code-alongs | ~90 min | Three notebooks (~25–30 min each) — Core sections only |
 | (Self-study after class) | self-paced | Each notebook has a 🟡 Extension section + the Kaggle assignment |
 
-**Why this structure?** Same Option A pacing as L01–L03: ~1.5 hours of slides + ~1.5 hours of hands-on with clearly marked 🟡 Extension boundaries.
+**Why this structure?** Same Option A pacing as L01–L03: ~1.5 hours of concepts + ~1.5 hours of hands-on with clearly marked 🟡 Extension boundaries.
 
 ---
 
